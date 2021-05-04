@@ -42,4 +42,5 @@ one way to set this all up is the following:
 * move the index.php  on your 2nd and 3rd VM
 * set the network to host only network(don't forget that you can now only acces other VMs and your host in this mode, but not the internet. If you like to have internet just add another network device in your virtual machine with NAT)
 * assign the ips 192.168.59.103(1st VM), 192.168.59.104(2nd VM) and 192.168.59.103(3rd VM)
+* make the database manually
 * you should be ready to go now
